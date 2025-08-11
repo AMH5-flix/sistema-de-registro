@@ -4,3 +4,5 @@
 
 Para ejecutar el sistemal debes poner:
 '''npm install react ejemplo'''
+
+sistema de registro 2
